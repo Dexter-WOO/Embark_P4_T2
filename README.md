@@ -5,8 +5,8 @@ The dataset collected was diverse, in which multiple brands of EV and non-EV ima
 
 After that, the method for data collection was discussed. In order to facilitate the recognition of EV by our model, the team had looked up for differences between EV and non-EV in terms of appearance. Then, it was realised that the EVs generally had smaller front grills as compared to non-EVs, thus front view images of vehicles were one of the focus for image collection. Then, another finding was the existence of exhaust pipe. Almost all non-EVs had an exhaust pipe at the back of them while it would not be always true for EVs. Thus, back view images of vehicles were the second focus for image collection. Lastly, it was also found that bottom views of the vehicle could be used as a potential data source for recognition due to the allignment of battery. In EVs, battery would be installed at the bottom thus a flat dark plate would be observed from the bottom view but mechanical parts would be observed if it were a non-EV. However, due to the lack of data for bottom views, this was not adopted at the end. Therefore, only front and back views of vehicles were collected for learning. Examples were shown below.
 
-<img class='right' src="![image](https://user-images.githubusercontent.com/69382649/145414853-28d2ad0c-d2b0-4df0-8855-82a597e6bff4.png)"/>
-<img class="left" src="![image](https://user-images.githubusercontent.com/69382649/145414761-0d3ff5e2-4032-4a49-92e9-857bd9faafd6.png)"/>
+"![image](https://user-images.githubusercontent.com/69382649/145414853-28d2ad0c-d2b0-4df0-8855-82a597e6bff4.png)"
+"![image](https://user-images.githubusercontent.com/69382649/145414761-0d3ff5e2-4032-4a49-92e9-857bd9faafd6.png)"
 
 About 45 images of EV and 45 images of non-EV from each brand were collected with equal front and back views. This made up a dataset of about 490 images. Then, the mixed dataset was splitted into two portion, in which the about 60% of the dataset was used as test set while the remaining portion was used as validation test set. 
 
