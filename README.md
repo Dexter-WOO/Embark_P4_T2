@@ -1,4 +1,4 @@
-# Embark_P4_T2
+# Vehicle Type Identification
 In this section, the image classification of electrical and non-electrical vehivles was done by using transfer learning from a pre-trained network. The pre-trained model which served as the convolutional base provided a short pathway towards image classification as it had been previously trained with a large generic dataset. The pre-trained model could be used in multiple types of image classification problems as it had been trained to have a 'worldwide' vision. Herein, the model, 'MobilNet' was used as the convolutional base for transfer learning (Marcelino, 2018). 
 
 The dataset collected was diverse, in which multiple brands of EV and non-EV images were processed to minimize biasness. However, to better fit the model for the use in Malaysia, a market survey was done to understand the EV markets in Malaysia, it was found that only around 500 EVs were currently on the road with very few brands available (Hans, 2021). Brands such as Nissan, Porsche, Renault, Mitsubishi, BMW, Tesla, MINI and Hyundai were among the top of the list. After careful consideration, only EVs manufactured by Nissan, Porsche, Renault, Mitsubishi, BMW and Tesla were chosen as the training data set.
@@ -14,6 +14,6 @@ About 45 images of EV and 45 images of non-EV from each brand were collected wit
 
 To verify the result, the accuracy and loss of both test and validation test set were plotted.
 
-Reference
+## Reference
 1. Marcelino, P. (2018, October 23). Transfer learning from pre-trained models - Towards Data Science. Medium. https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
 2. H. (2021, December 6). How many EVs are there on Malaysia roads? Slightly under 500, which brand leads? WapCar. https://www.wapcar.my/news/how-many-evs-are-there-on-malaysia-roads-slightly-under-500-which-brand-leads-31398
