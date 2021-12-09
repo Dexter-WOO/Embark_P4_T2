@@ -15,7 +15,7 @@ After that, the method for data collection was discussed. In order to facilitate
 </div>
 
 
-    ![image](https://user-images.githubusercontent.com/69382649/145409368-3789863d-19a0-48c0-ae97-bd31f9a284bd.png)
+    "![image](https://user-images.githubusercontent.com/69382649/145409368-3789863d-19a0-48c0-ae97-bd31f9a284bd.png)"
 "![image](https://user-images.githubusercontent.com/69382649/145409000-6a3819ff-2133-4beb-9cd2-79c4639a0ec5.png)"
 
 
